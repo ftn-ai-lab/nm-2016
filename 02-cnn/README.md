@@ -2,7 +2,7 @@
 
 * Funkcije greške: http://cs231n.github.io/neural-networks-2/#losses
 
-* Ažuriranje težina: http://cs231n.github.io/neural-networks-3/#update
+* Ažuriranje parametara: http://cs231n.github.io/neural-networks-3/#update
 
 * **Keras** primer višeslojnog perceptrona za MNIST: https://github.com/fchollet/keras/blob/master/examples/mnist_mlp.py
 

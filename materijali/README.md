@@ -5,7 +5,9 @@ Youtube playlist-a sa 3 videa: https://www.youtube.com/playlist?list=PLBI8Ys-vop
 
 ### Stanford CS231n kurs
 
-http://cs231n.stanford.edu/syllabus.html
+* http://cs231n.stanford.edu/syllabus.html
+
+* Youtube snimci predavanja: https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG
 
 ### Deep learning book
 

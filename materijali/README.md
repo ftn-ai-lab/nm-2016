@@ -11,4 +11,5 @@ Youtube playlist-a sa 3 videa: https://www.youtube.com/playlist?list=PLBI8Ys-vop
 
 ### Deep learning book
 
-http://www.deeplearningbook.org/
+
+Za opsežnije i formalnije gradivo: http://www.deeplearningbook.org/

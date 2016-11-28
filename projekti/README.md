@@ -2,7 +2,7 @@
 
 Predmetni projekat se sastoji iz:
 
-* **Praktičnog dela** - Implementacija rešavanja nekog problema upotrebno dubokih neuralnih mreža.
+* **Praktičnog dela** - Implementacija rešavanja nekog problema upotrebom dubokih neuralnih mreža.
 * **Teorijskog dela** - Naučni rad u IEEE formatu, 4-6 strana, dvokolonski, na engleskom jeziku. U ovom radu neophodno je opisati motivaciju, teorijske osnove, detalje implementacije i rezultate iz praktičnog dela.
 
 Projekat se može raditi samostalno ili u timu do troje ljudi. Tema i opseg projekta treba u skladu sa veličinom tima.
@@ -14,7 +14,7 @@ Prilikom prijave projekta, naslov "issue"-a neka bude tema projekta, a u samom o
 
 * Ko su članovi tima? Ime, prezime, broj indeksa...
 * Ako vas nema troje, da li prihvatate da vam se neko pridruži?
-* Detaljniji opis projekta: šta se rešava, koji podaci će se koristiti (da li su javno dostupni ili ih morate manuelno skuplati), koje vrste neuralnih mreža planirate da koristite, da li ćete koristiti pretrenirane modele...
+* Detaljniji opis projekta: šta se rešava, koji podaci će se koristiti (da li su javno dostupni ili ih morate manuelno skupljati), koje vrste neuralnih mreža planirate da koristite, da li ćete koristiti pretrenirane modele...
 
 Stundenti koji nemaju tim mogu odgovoriti na "issue" i zamoliti timove koji još nisu formirani da im se pridruže.
 
